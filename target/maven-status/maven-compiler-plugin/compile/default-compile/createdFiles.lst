@@ -1,0 +1,6 @@
+by\savitskaya\servlet\EditClient.class
+by\savitskaya\dao\ClientDao.class
+by\savitskaya\model\Client.class
+by\savitskaya\servlet\DeleteClient.class
+by\savitskaya\servlet\MainPanel.class
+by\savitskaya\servlet\AddClient.class
